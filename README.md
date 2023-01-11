@@ -1,2 +1,10 @@
 # testing-549
-a repo for testing out some functionality
+
+#Hello 
+
+This is a repo for testing out some functionality
+
+Here are some reasons I like GitHub:
+
+_italics_
+**bold**
